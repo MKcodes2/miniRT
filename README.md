@@ -27,7 +27,6 @@ Graphics Library that was used: [MLX42](https://github.com/codam-coding-college/
 ![snowman](images/snowman.png)<br><br>
 
 ## 🎯 Mandatory requirements:
-> as specified in the [Subject](https://github.com/rphlr/42-Subjects/blob/main/common-core/miniRT/en.subject.pdf)
 
 ✔️ Handling of the three geometric objects: **plane** 🃏, **sphere** 🏀 and **cylinder** 🧨. <br>
 ✔️ Management of all possible **intersections** of the objects.<br>
