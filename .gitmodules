@@ -3,4 +3,4 @@
 	url = https://github.com/codam-coding-college/MLX42.git
 [submodule "Lib"]
 	path = Lib
-	url = https://github.com/dendeaisd/Lib.git
+	url = https://github.com/flavify/Lib.git
