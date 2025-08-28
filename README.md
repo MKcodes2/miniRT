@@ -52,7 +52,7 @@ Graphics Library that was used: [MLX42](https://github.com/codam-coding-college/
 
 ### ❗ Error Handling:
 
-> You can browse many cases of [invalid scene files](https://github.com/MaryKateEvan/miniRT/tree/main/scenes/invalid) and run them according to the [Usage 🚀 ](https://github.com/MaryKateEvan/miniRT?tab=readme-ov-file#--usage) instructions, to check the Error messages we provide.
+> You can browse many cases of [invalid scene files](https://github.com/MaryKateEvan/miniRT/tree/main/scenes/invalid) and run them according to the [Usage 🚀 ](https://github.com/MaryKateEvan/miniRT?tab=readme-ov-file#-usage) instructions, to check the Error messages we provide.
 
 - Running the program with more than 3 arguments, or less than 2.
 - Empty or unexisting .rt file
@@ -120,7 +120,7 @@ In order for the LIVE movements (presented above) to be smooth, we needed a **li
 | **1. HD mode &nbsp;🖥️**    |  1920x1080  |      ✅      |       ❌       | `./miniRT scenes/grape.rt HD` |
 | **2. Interactive mode 🕹️** |   800x600   |      ❌      |       ✅       |  `./miniRT scenes/grape.rt`   |
 
-&nbsp; 💁‍♀️ &nbsp; _For analytical info on how to run the different modes, check out the [Usage 🚀 ](https://github.com/MaryKateEvan/miniRT?tab=readme-ov-file#--usage) section below ⬇️._
+&nbsp; 💁‍♀️ &nbsp; _For analytical info on how to run the different modes, check out the [Usage 🚀 ](https://github.com/MaryKateEvan/miniRT?tab=readme-ov-file#-usage) section below ⬇️._
 
 ### &nbsp;7️⃣ &nbsp; Randomized stars in the backround &nbsp; 🌌
 
